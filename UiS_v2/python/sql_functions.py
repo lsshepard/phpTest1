@@ -115,7 +115,7 @@ data_dicts = [
 
 
 create_new_database('appelsin')
-connection = create_db_connection('kczasktwxv', 'kczasktwxv', 'T4r4smWxq9', 'uis1')
+connection = create_db_connection('', '', '', '')
 
 insert_data(data_dicts, connection)
 
