@@ -1,0 +1,56 @@
+body {
+    width: 100%;
+    background-color: whtie;
+}
+
+canvas {
+    width: 50%;
+    margin-left: 25%;
+    background-color: rgb(240, 240, 240);
+    border-width: 100px;
+    border: 3px solid rgb(100, 100, 100);
+    margin-top: 15px;
+}
+
+.box {
+    background-color: rgb(220, 220, 220);
+    width: 40%;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+}
+
+.questionText {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+form {
+    text-align: right;
+}
+
+.input {
+    text-align: center;
+    margin: 50px;
+}
+
+input {
+    margin-left: 5%;
+    width: 30%;
+}
+
+button {
+    width: 30%;
+    background-color: aliceblue;
+    margin-right: 25px; 
+}
+
+output {
+    width: 30%;
+}
