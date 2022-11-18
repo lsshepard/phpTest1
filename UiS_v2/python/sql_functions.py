@@ -114,9 +114,9 @@ data_dicts = [
             ]
 
 
-#create_new_database('appelsin')
-connection = create_db_connection('localhost', 'root', 'root', 'appelsin')
+create_new_database('appelsin')
+connection = create_db_connection('kczasktwxv', 'kczasktwxv', 'T4r4smWxq9', 'uis1')
 
-#insert_data(data_dicts, connection)
+insert_data(data_dicts, connection)
 
-set_round_nr(2, connection)
+#set_round_nr(2, connection)
